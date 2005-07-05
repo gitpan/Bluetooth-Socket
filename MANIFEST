@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+Socket.xs
+t/Bluetooth-Socket.t
+lib/Bluetooth/Socket.pm
